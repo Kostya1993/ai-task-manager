@@ -56,3 +56,5 @@ MIT License - feel free to use this project for your portfolio or learning!
 ---
 
 Built with ❤️ using React and TypeScript
+
+🚀 Live Demo: https://kostya1993.github.io/ai-task-manager/
